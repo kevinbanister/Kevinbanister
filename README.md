@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- I'm passionate about building efficient teams and systems. I've done my best to positively influence different tech communities across Africa.
+ I'm passionate about building efficient teams and systems and I've done my best to positively influence different tech communities across Africa.
  
  My career started off with Mathematics and SQL and I have been gradually moving up the stack. I'm now obsessed with Functional programming, stochastic differential equations, and Micro Services Architecture. I love teaching developers and have spoken at various meetups and conferences focused on web development and system Architecture. 
  
